@@ -1,0 +1,49 @@
+{
+  "name": "koa-logger-middleware",
+  "version": "1.0.0",
+  "description": "Koa2 middleware for logging requests using custom logger as winstonjs",
+  "people": {
+    "name": "YSO CORP",
+    "email": "contact@ysocorp.com",
+    "url": "http://ysocorp.com"
+  },
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^2.3.2",
+    "moment": "^2.21.0",
+    "uuid": "^3.2.1"
+  },
+  "devDependencies": {
+    "eslint": "^4.18.2",
+    "jest": "^22.4.2"
+  },
+  "scripts": {
+    "test": "jest",
+    "lint": "eslint index.js index.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ysocorp/koa-logger-middleware.git"
+  },
+  "keywords": [
+    "koa",
+    "koa-logger",
+    "koa2-logger",
+    "koa-logger-middleware",
+    "koa2-logger-middleware",
+    "koa-middleware-logger",
+    "koa2-middleware-logger",
+    "logger",
+    "middleware",
+    "logger-winston",
+    "koa2-middleware-winston",
+    "koa2-winston",
+    "winston",
+    "koa2"
+  ],
+  "bugs": {
+    "url": "https://github.com/ysocorp/koa-logger-middleware/issues"
+  },
+  "homepage": "https://github.com/ysocorp/koa-logger-middleware#readme"
+}
